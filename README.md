@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm Yashavantha Kumar RT</h1>
+ <h1 align="center">👋 Hi, I'm Yashavantha Kumar RT</h1>
 <h3 align="center">💻 Java Full Stack Developer | Spring Boot | React.js | REST APIs | MySQL | DevOps Enthusiast</h3>
 
 ---
 
 ### 🚀 About Me
 - 🔭 I’m currently working on *Java-based Full Stack Web Applications*
-- 🌱 I’m learning *Spring Boot, Microservices, and DevOps (Docker, CI/CD)*
+- 🌱 I’m learning *Spring Boot Microservices, Docker, and CI/CD*
 - 💬 Ask me about *Java, Spring Boot, Hibernate, MySQL, REST APIs, React.js*
 - ⚡ Passionate about building scalable backend systems and responsive frontends  
 - 🎯 Goal: To architect enterprise-level Java web applications with cloud integration  
@@ -44,24 +44,39 @@
 ---
 
 ### 📂 Featured Projects
-| Project Name | Description | Tech Stack |
-|---------------|-------------|------------|
-| [GramLink](https://github.com/your-username/GramLink) | Smart connectivity platform for rural learning and digital communication | Java, Spring Boot, React.js, MySQL |
-| [Indoor Navigation System](https://github.com/your-username/IndoorNavigation) | Web-based system to locate rooms and navigate campus buildings | HTML, CSS, JavaScript |
 
+| Project | Description | Tech Stack |
+|----------|--------------|------------|
+| [GramLink](https://github.com/your-username/GramLink) | Smart connectivity platform for rural learning and digital communication | Java, Spring Boot, React.js, MySQL |
+| [Indoor Navigation System](https://github.com/your-username/IndoorNavigationSystem) | Web-based system to locate rooms and navigate campus buildings | HTML, CSS, JavaScript |
+ 
+ 
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="160em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="160em"/>
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashavantha-kumar-rt-081302318/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashavanthakumarrt53@gmail.com)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yashavantha-kumar-rt-081302318/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+   
+  <a href="mailto:yashavanthakumarrt53@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ *“Code with logic, build with passion.”*
+⭐ “Code with logic, build with passion.”
